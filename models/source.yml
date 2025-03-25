@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: business_central_fivetran
+    database: norrona-erp  
+    tables:
+      - name: company
